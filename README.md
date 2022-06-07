@@ -23,3 +23,6 @@
 1. Transfer function of the open-loop converter
 2. Transfer function of the PID Controller
 3. Objective function/Fitness function for IAE, ISE, ITAE, and ITSE
+
+### Simulink Model
+```sepic_ckt.slx``` - Unidirection SEPIC converter circuit
